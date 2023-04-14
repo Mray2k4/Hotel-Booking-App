@@ -1,3 +1,29 @@
 body {
     text-align: center;
+    background-image: url(https://www.visitpittsburgh.com/imager/s3_amazonaws_com/visit-pittsburgh/CMS/skyline-5_30e338a82d824e8f867f0cc119feece6.jpg);
+    background-size: cover;
 }
+
+
+ .input {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; 
+  
+   
+}
+
+.input div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px auto;
+}
+
+.first {
+  width: 134px;
+}
+
+.last {
+  width: 151px;
+} 
+
