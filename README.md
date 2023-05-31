@@ -2,7 +2,7 @@
 
 A simple Hotel Booking App, made with 2 HTML files and CSS.
 
-Test [here](https://mray2k4.github.io/Hotel-Booking-App/)
+Test it [here](https://mray2k4.github.io/Hotel-Booking-App/)
 
 ![Screenshot 2023-05-31 085239](https://github.com/Mray2k4/Hotel-Booking-App/assets/99221965/ca4a645f-a020-47b2-9533-197099b5fad0)
 
