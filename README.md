@@ -10,4 +10,4 @@ Test [here](https://mray2k4.github.io/Hotel-Booking-App/)
 This project I learned about the form and input elements. It was fairly easy to grasp. The attributes inside the input tags was fun to learn on how the different types affect what is displayed. There wasn't too much extra I needed to understand outside of those 2 elements to complete the project. I added an extra HTML file that sends you to a completion page when everything is filled out completley. It was an added touch I made to it which was great being able to apply what I learned in a previous project to this one.
 
 ## Author
-**Marque Ray** - *Software Developer*
+* **Marque Ray** - *Software Developer*
